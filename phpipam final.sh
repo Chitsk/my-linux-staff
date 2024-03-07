@@ -1,4 +1,4 @@
-
+#!/bin/bash
 #PHPIPAM default login
 # username : admin
 # Password: ipamadmin
