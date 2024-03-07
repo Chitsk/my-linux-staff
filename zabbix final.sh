@@ -1,3 +1,5 @@
+#!/bin/bash
+
 DATABASE_PASS='Pass-2024'
 sudo apt update
 sud apt install -y curl vim
