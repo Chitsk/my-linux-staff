@@ -1,2 +1,2 @@
-# my-linux-staff
-Notes &amp; Scripts for linux
+# my-linux-stuff
+## Install PHP IPAM server and Zabbix Server with linux scripts
